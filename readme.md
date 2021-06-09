@@ -36,8 +36,11 @@ Realistic Effects Pack 4:
 https://assetstore.unity.com/packages/vfx/particles/spells/realistic-effects-pack-4-85675?aid=1011lav2V&utm_source=aff
 
 * Reference tutorial:
+
 Dapper Dino: https://www.youtube.com/watch?v=29vyEOgsW8s
+
 RVR: https://www.youtube.com/watch?v=YZ6cQkybvuw
+
 
 ## Content
    * Functions in the game:
