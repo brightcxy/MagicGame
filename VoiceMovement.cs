@@ -13,6 +13,7 @@ public class VoiceMovement : MonoBehaviour
 
     void Start()
     {
+    //adding words to dictionary
         actions.Add("forward", Forward);
         actions.Add("Create", Create);
         actions.Add("Destroy", Destroy);
@@ -29,6 +30,7 @@ public class VoiceMovement : MonoBehaviour
         actions[speech.text].Invoke();
     }
 
+//call the voice function when speat the word
     private void Forward()
     {
         transform.Translate(1, 0, 0);
