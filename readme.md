@@ -17,7 +17,7 @@ You are not a wizard, but you can be a wizard in a game. Saying a spell name, yo
 using your microphone, say **"destroy"**. The buildings will disappear.
 saying **"create"**, the buildings will appear.
 
-2.Move: Press **"w""a""s""d"** to move, and press **"space key"** to jump.
+2. Move: Press **"w""a""s""d"** to move, and press **"space key"** to jump.
 
 3. Magic equipment: press **"E"** to eqip fireball spell on your right hand
 
