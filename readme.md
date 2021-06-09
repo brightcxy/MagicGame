@@ -20,11 +20,13 @@ You are not a wizard, but you can be a wizard in a game. Saying a spell name, yo
 * Game engine: Unity 3D
 * Package used:
 Game Creator: 
-https://assetstore.unity.com/packages...
+https://assetstore.unity.com/packages/tools/game-toolkits/game-creator-89443?aid=1011lav2V&utm_source=aff
+
 Shooter: 
-https://assetstore.unity.com/packages...
+https://assetstore.unity.com/packages/tools/game-toolkits/shooter-155705?aid=1011lav2V&utm_source=aff
+
 Realistic Effects Pack 4: 
-https://assetstore.unity.com/packages...
+https://assetstore.unity.com/packages/vfx/particles/spells/realistic-effects-pack-4-85675?aid=1011lav2V&utm_source=aff
 
 * Reference tutorial:
 Dapper Dino: https://www.youtube.com/watch?v=29vyEOgsW8s
