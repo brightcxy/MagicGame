@@ -10,6 +10,28 @@ Today almost every player have their microphone to voice chat online, we could t
 
 You are not a wizard, but you can be a wizard in a game. Saying a spell name, you could use the spell in the game.
 
+## Content
+   * Functions in the game:
+
+1. Voice recognition: 
+using your microphone, say **"destroy"**. The buildings will disappear.
+saying **"create"**, the buildings will appear.
+
+2.Move: Press **"w""a""s""d"** to move, and press **"space key"** to jump.
+
+3. Magic equipment: press **"E"** to eqip fireball spell on your right hand
+
+4. Aim: hold **"right mouse button"** to aim.
+
+5. Shoot: while aiming, press **"left mouse button"** to shoot a fire ball
+
+
+demo video:
+
+https://youtu.be/AFT1CZHOseY
+
+https://youtu.be/dt1Fj72fp_E
+
 ## About
 
 * Creator(s):Xiuyuan Chen
@@ -42,21 +64,4 @@ Dapper Dino: https://www.youtube.com/watch?v=29vyEOgsW8s
 RVR: https://www.youtube.com/watch?v=YZ6cQkybvuw
 
 
-## Content
-   * Functions in the game:
-    1. Voice recognition: 
-using your microphone, say **"destroy"**. The buildings will disappear.
-saying **"create"**, the buildings will appear.
 
-    2.Move: Press **"w""a""s""d"** to move, and press **"space key"** to jump.
-
-    3. Magic equipment: press **"E"** to eqip fireball spell on your right hand
-    4. Aim: hold **"right mouse button"** to aim.
-    5. Shoot: while aiming, press **"left mouse button"** to shoot a fire ball
-
-
-demo video:
-
-https://youtu.be/AFT1CZHOseY
-
-https://youtu.be/dt1Fj72fp_E
